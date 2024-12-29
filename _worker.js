@@ -1,7 +1,7 @@
 import { connect } from "cloudflare:sockets";
 
 // Variables
-const rootDomain = "Kopralstore.my.id"; // Ganti dengan domain utama kalian
+const rootDomain = "kopralstore.my.id"; // Ganti dengan domain utama kalian
 const serviceName = "kopral01"; // Ganti dengan nama workers kalian
 const apiKey = "77e862d6241132265ff24af4bedca2e9f52e4"; // Ganti dengan Global API key kalian (https://dash.cloudflare.com/profile/api-tokens)
 const apiEmail = "kopralwann04@gmail.com"; // Ganti dengan email yang kalian gunakan
