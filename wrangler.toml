@@ -1,9 +1,11 @@
 name = "kopral01"
 main = "_worker.js"
-compatibility_date = "2023-08-23"
+compatibility_date = "2023-05-26"
+# node_compat = true
+workers_dev = true
 
-[unsafe.metadata.observability]
-enabled = true
-
-[observability.logs]
-enabled = true
+[vars]
+# PROXYIP = "211.230.110.231:50008"
+UUID = "25dc5c92-fd14-4029-a4ac-0a9d4f72ee21"
+# SOCKS5 = "127.0.0.1:1080"
+# SOCKS5_RELAY = "true"
