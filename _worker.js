@@ -4,7 +4,7 @@ import { connect } from "cloudflare:sockets";
 const rootDomain = "kopralstore.my.id";
 const serviceName = "kopral01";
 const apiKey = "77e862d6241132265ff24af4bedca2e9f52e4";
-const apiEmail = "kopralwann@gmail.com"; 
+const apiEmail = "kopralwann04@gmail.com"; 
 const accountID = "0d86a1c2c93e80aa25b8b8c1241b4a4b";
 const zoneID = "dcc154d3dd628299d54bb09035e41f3d";
 let isApiReady = false;
